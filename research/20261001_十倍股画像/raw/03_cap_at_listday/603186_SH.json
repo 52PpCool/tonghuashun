@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "华正新材2017年1月3日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "id": 52,
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|603186.SH|华正新材|9.9988亿|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20170103\",\"单位\":\" 元\"}}}}",
+            "type": "text"
+          }
+        ]
+      }
+    }
+  }
+}

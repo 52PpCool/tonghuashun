@@ -1,0 +1,30 @@
+
+===== run 2026-10-01 01:45:35 source=sina fresh=False =====
+[ok]   300390.SZ 天华新能 rows=2431 first=2016-08-15
+[ok]   300763.SZ 锦浪科技 rows=1810 first=2019-03-19
+[ok]   300718.SZ 长盛轴承 rows=2142 first=2017-11-06
+[ok]   300725.SZ 药石科技 rows=2133 first=2017-11-10
+[ok]   603290.SH 斯达半导 rows=1598 first=2020-02-04
+[ok]   603179.SH 新泉股份 rows=2298 first=2017-03-17
+[ok]   300274.SZ 阳光电源 rows=2439 first=2016-08-15
+[ok]   300693.SZ 盛弘股份 rows=2186 first=2017-08-22
+[ok]   002475.SZ 立讯精密 rows=2438 first=2016-08-15
+[ok]   600760.SH 中航沈飞 rows=2358 first=2016-08-15
+[ok]   300628.SZ 亿联网络 rows=2298 first=2017-03-17
+[ok]   603444.SH 吉比特 rows=2345 first=2017-01-04
+[ok]   603360.SH 百傲化学 rows=2327 first=2017-02-06
+[ok]   300601.SZ 康泰生物 rows=2326 first=2017-02-07
+[ok]   002648.SZ 卫星化学 rows=2437 first=2016-08-15
+[ok]   600809.SH 山西汾酒 rows=2427 first=2016-08-15
+[ok]   000338.SZ 潍柴动力 rows=2439 first=2016-08-15
+[ok]   603605.SH 珀莱雅 rows=2135 first=2017-11-15
+[ok]   600176.SH 中国巨石 rows=2427 first=2016-08-15
+[ok]   002714.SZ 牧原股份 rows=2439 first=2016-08-15
+[ok]   603345.SH 安井食品 rows=2276 first=2017-02-22
+[ok]   002833.SZ 弘亚数控 rows=2349 first=2016-12-28
+[ok]   000933.SZ 神火股份 rows=2427 first=2016-08-15
+[ok]   600188.SH 兖矿能源 rows=2439 first=2016-08-15
+[ok]   603688.SH 石英股份 rows=2439 first=2016-08-15
+[ok]   601088.SH 中国神华 rows=2365 first=2016-08-15
+[ok]   600801.SH 华新建材 rows=2437 first=2016-08-15
+[ok]   002895.SZ 川恒股份 rows=2184 first=2017-08-25

@@ -1,0 +1,118 @@
+==============================================================================
+06_Fama-French三因子回归 —— 完整回归摘要（regression_detail.txt）
+生成时间：2026-09-20 00:46
+个股数据来源：yfinance(2026-09-20)（2015-01 至今，月频）
+因子数据来源：Kenneth French 官网（data/cache/ff3_monthly.csv，单位已换算为小数）
+模型：Ri - RF = a + b·Mkt-RF + s·SMB + h·HML + ε（OLS，Newey-West HAC 标准误，maxlags=floor(4·(n/100)^(2/9))）
+==============================================================================
+
+【AAPL 苹果】样本 2015-01 ~ 2026-07，n=139，数据来源：yfinance(2026-09-20)
+------------------------------------------------------------------------------
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 excess   R-squared:                       0.476
+Model:                            OLS   Adj. R-squared:                  0.465
+Method:                 Least Squares   F-statistic:                     44.04
+Date:                Sun, 20 Sep 2026   Prob (F-statistic):           6.51e-20
+Time:                        00:46:06   Log-Likelihood:                 202.68
+No. Observations:                 139   AIC:                            -397.4
+Df Residuals:                     135   BIC:                            -385.6
+Df Model:                           3                                         
+Covariance Type:                  HAC                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0079      0.004      1.844      0.065      -0.000       0.016
+Mkt-RF         1.1517      0.102     11.267      0.000       0.951       1.352
+SMB           -0.1764      0.172     -1.024      0.306      -0.514       0.161
+HML           -0.4667      0.129     -3.621      0.000      -0.719      -0.214
+==============================================================================
+Omnibus:                        7.057   Durbin-Watson:                   2.037
+Prob(Omnibus):                  0.029   Jarque-Bera (JB):                7.417
+Skew:                          -0.390   Prob(JB):                       0.0245
+Kurtosis:                       3.819   Cond. No.                         40.1
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 4 lags and without small sample correction
+
+残差诊断：
+  正态性  Jarque-Bera = 7.42，p = 0.0245（p<0.05 → 拒绝正态，金融月收益常见）
+  偏度 = -0.39，峰度 = 3.82
+  自相关  Ljung-Box(6) p = 0.3898，Durbin-Watson = 2.04
+  （这正是使用 Newey-West 标准误的原因）
+==============================================================================
+
+【MSFT 微软】样本 2015-01 ~ 2026-07，n=139，数据来源：yfinance(2026-09-20)
+------------------------------------------------------------------------------
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 excess   R-squared:                       0.548
+Model:                            OLS   Adj. R-squared:                  0.538
+Method:                 Least Squares   F-statistic:                     121.1
+Date:                Sun, 20 Sep 2026   Prob (F-statistic):           4.21e-38
+Time:                        00:46:06   Log-Likelihood:                 229.54
+No. Observations:                 139   AIC:                            -451.1
+Df Residuals:                     135   BIC:                            -439.3
+Df Model:                           3                                         
+Covariance Type:                  HAC                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0065      0.004      1.725      0.084      -0.001       0.014
+Mkt-RF         1.0823      0.068     15.954      0.000       0.949       1.215
+SMB           -0.7491      0.185     -4.046      0.000      -1.112      -0.386
+HML           -0.4833      0.086     -5.624      0.000      -0.652      -0.315
+==============================================================================
+Omnibus:                       43.277   Durbin-Watson:                   1.993
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              188.934
+Skew:                           1.009   Prob(JB):                     9.41e-42
+Kurtosis:                       8.343   Cond. No.                         40.1
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 4 lags and without small sample correction
+
+残差诊断：
+  正态性  Jarque-Bera = 188.93，p = 0.0000（p<0.05 → 拒绝正态，金融月收益常见）
+  偏度 = +1.01，峰度 = 8.34
+  自相关  Ljung-Box(6) p = 0.0627，Durbin-Watson = 1.99
+  （这正是使用 Newey-West 标准误的原因）
+==============================================================================
+
+【NVDA 英伟达】样本 2015-01 ~ 2026-07，n=139，数据来源：yfinance(2026-09-20)
+------------------------------------------------------------------------------
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 excess   R-squared:                       0.418
+Model:                            OLS   Adj. R-squared:                  0.405
+Method:                 Least Squares   F-statistic:                     26.93
+Date:                Sun, 20 Sep 2026   Prob (F-statistic):           1.02e-13
+Time:                        00:46:06   Log-Likelihood:                 123.69
+No. Observations:                 139   AIC:                            -239.4
+Df Residuals:                     135   BIC:                            -227.6
+Df Model:                           3                                         
+Covariance Type:                  HAC                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0334      0.010      3.265      0.001       0.013       0.053
+Mkt-RF         1.7180      0.256      6.703      0.000       1.216       2.220
+SMB           -0.1595      0.344     -0.463      0.643      -0.834       0.515
+HML           -0.9471      0.244     -3.879      0.000      -1.426      -0.468
+==============================================================================
+Omnibus:                        8.303   Durbin-Watson:                   1.894
+Prob(Omnibus):                  0.016   Jarque-Bera (JB):                8.429
+Skew:                           0.480   Prob(JB):                       0.0148
+Kurtosis:                       3.730   Cond. No.                         40.1
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 4 lags and without small sample correction
+
+残差诊断：
+  正态性  Jarque-Bera = 8.43，p = 0.0148（p<0.05 → 拒绝正态，金融月收益常见）
+  偏度 = +0.48，峰度 = 3.73
+  自相关  Ljung-Box(6) p = 0.6017，Durbin-Watson = 1.89
+  （这正是使用 Newey-West 标准误的原因）
+==============================================================================

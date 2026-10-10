@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_info",
+  "params": {
+    "query": "源杰科技、芯源微、昭衍新药、兆易创新、沪电股份的上市日期和所属同花顺行业"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "id": 7,
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|所属同花顺行业|上市日期|所属申万行业|竞争公司|可比公司|\\n|---|---|---|---|---|---|---|\\n|688498.SH|源杰科技|电子|20221221|电子|MACOM Technology Solutions Holdings, Inc.,全新光电科技股份有限公司,河南仕佳光子科技股份有限公司,联亚光电工业股份有限公司,苏州长光华芯光电技术股份有限公司|Lumentum控股公司,MACOM Technology Solutions Holdings, Inc.,住友电工网络株式会社,全新光电科技股份有限公司,日本三菱电机株式会社,武汉云岭光电股份有限公司,武汉光安伦光电技术有限公司,Broadcom Inc.,武汉敏芯半导体股份有限公司,河南仕佳光子科技股份有限公司,福建中科光芯光电科技有限公司,联亚光电工业股份有限公司,苏州长光华芯光电技术股份有限公司,青岛海信宽带多媒体技术有限公司,武汉光迅科技股份有限公司,Finisar Corporation|\\n|002463.SZ|沪电股份|电子|20100818|电子|\\t|\\t|\\n|688037.SH|芯源微|电子|20191216|电子|ACM Research, Inc.,SCREEN Holdings Co., Ltd,SüSS MicroTec,Veeco Instruments Inc.,东京电子有限公司,中微半导体设备(上海)股份有限公司,北方华创科技集团股份有限公司|ACM Research, Inc.,Solid State Holdings Equipment LLC,北方华创科技集团股份有限公司,东京电子有限公司,SCREEN Holdings Co., Ltd,亿力鑫系统科技股份有限公司,SüSS MicroTec,CNDPLUS CO., LTD.|\\n|603127.SH|昭衍新药|医药生物|20170825|医药生物|\\t|\\t|\\n|603986.SH|兆易创新|电子|20160818|电子|\\t|\\t|\",\"indicators_params\":{\"所属同花顺行业\":{\"行业级别\":\"一级行业\",\"截止日期\":\"最新\"},\"所属申万行业\":{\"行业级别\":\"一级行业\",\"截止日期\":\"最新\"}}}}",
+            "type": "text"
+          }
+        ]
+      }
+    }
+  }
+}

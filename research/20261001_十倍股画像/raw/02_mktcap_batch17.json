@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "数据港、泰晶科技、高争民爆、盐津铺子、卓胜微2016年9月1日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|002827.SZ|高争民爆|0.0|\\n|002847.SZ|盐津铺子|0.0|\\n|603738.SH|泰晶科技|0.0|\\n|603881.SH|数据港|0.0|\\n|300782.SZ|卓胜微|0.0|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20160901\",\"单位\":\" 元\"}}}}"
+          }
+        ]
+      },
+      "id": 37
+    }
+  }
+}

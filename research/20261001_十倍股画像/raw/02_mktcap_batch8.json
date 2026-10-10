@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "腾景科技、德业股份、拓荆科技、太辰光、指南针2016年9月1日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "id": 28,
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|688072.SH|拓荆科技|0.0|\\n|688195.SH|腾景科技|0.0|\\n|300803.SZ|指南针|0.0|\\n|605117.SH|德业股份|0.0|\\n|300570.SZ|太辰光|0.0|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20160901\",\"单位\":\" 元\"}}}}",
+            "type": "text"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿设定,秩r(迹),秩r(最大特征根)
+"k_ar_diff=1, det_order=0",1,0
+"k_ar_diff=2, det_order=0",1,0
+"k_ar_diff=3, det_order=0",1,0
+"k_ar_diff=2, det_order=-1(无常数/趋势)",0,0
+"k_ar_diff=2, det_order=0(常数项)",1,0
+"k_ar_diff=2, det_order=1(线性趋势)",0,0

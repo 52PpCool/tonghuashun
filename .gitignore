@@ -1,0 +1,10 @@
+# 密钥与工具配置：.zcode/skills/ifind-finance-data/mcp_config.json 含 auth_token，严禁入库
+.zcode/
+
+# Python 运行产物
+__pycache__/
+*.pyc
+.venv/
+
+# 数据库缓存（quant.duckdb 见 research/20261001_量化工程篇，可由课程脚本重建，如需入库自行移除此行）
+# *.duckdb

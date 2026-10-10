@@ -1,0 +1,1 @@
+/home/ppku/zcodespace/tonghuashun/research/20260918_量化学习全景/.venv/bin/python: can't open file '/home/ppku/zcodespace/tonghuashun/research/20260918_量化学习全景/17_iFinD真实数据管道/parse_and_study.py': [Errno 2] No such file or directory

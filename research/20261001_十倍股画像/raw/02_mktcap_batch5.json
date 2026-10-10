@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "源杰科技、芯源微、昭衍新药、兆易创新、沪电股份2016年9月1日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|688498.SH|源杰科技|0.0|\\n|002463.SZ|沪电股份|88.7305亿|\\n|688037.SH|芯源微|0.0|\\n|603127.SH|昭衍新药|0.0|\\n|603986.SH|兆易创新|86.86亿|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20160901\",\"单位\":\" 元\"}}}}"
+          }
+        ]
+      },
+      "id": 25
+    }
+  }
+}

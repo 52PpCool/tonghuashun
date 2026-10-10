@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "百合花2016年12月20日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|603823.SH|百合花|34.335亿|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20161220\",\"单位\":\" 元\"}}}}"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 64
+    }
+  }
+}

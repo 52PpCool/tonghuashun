@@ -1,0 +1,81 @@
+{
+  "n_tenx": 88,
+  "n_control": 28,
+  "H1_industry": {
+    "hard_tech_trio": [
+      "机械设备",
+      "电子",
+      "通信"
+    ],
+    "tenx_share": 0.6363636363636364,
+    "control_share": 0.17857142857142858,
+    "table": [
+      [
+        56,
+        32
+      ],
+      [
+        5,
+        23
+      ]
+    ],
+    "odds_ratio": 8.05,
+    "p_fisher": 2.5029562721566806e-05,
+    "min_p": 2.5029562721566806e-05,
+    "significant_after_bonferroni": true
+  },
+  "H2_cohort": {
+    "definition": "老股 = 上市日 < 2016-09-01（严格窗口口径，与市值锚定一致）",
+    "tenx_old_before_window": 13,
+    "control_old_before_window": 14,
+    "tenx_inwindow_share": 0.8522727272727273,
+    "control_inwindow_share": 0.5,
+    "odds_ratio": 5.769230769230769,
+    "p_fisher": 0.00047939518859376265,
+    "min_p": 0.00047939518859376265,
+    "significant_after_bonferroni": true
+  },
+  "H3_start_cap": {
+    "tenx_median_yi": 26.4253,
+    "control_median_yi": 46.6956,
+    "tenx_under50_share": 0.7045454545454546,
+    "control_under50_share": 0.5357142857142857,
+    "mw_u": 736.0,
+    "p_mannwhitney": 0.001389416230569022,
+    "under50_odds_ratio": 2.066666666666667,
+    "p_fisher_under50": 0.1125211551121619,
+    "min_p": 0.001389416230569022,
+    "significant_after_bonferroni": true
+  },
+  "bonferroni_alpha": 0.016666666666666666,
+  "industry_counts_tenx": {
+    "电子": 33,
+    "通信": 13,
+    "机械设备": 10,
+    "电力设备": 7,
+    "基础化工": 7,
+    "医药生物": 6,
+    "有色金属": 5,
+    "计算机": 3,
+    "汽车": 2,
+    "食品饮料": 1,
+    "建筑装饰": 1
+  },
+  "industry_counts_control": {
+    "基础化工": 4,
+    "电力设备": 4,
+    "汽车": 2,
+    "电子": 2,
+    "机械设备": 2,
+    "医药生物": 2,
+    "建筑材料": 2,
+    "煤炭": 2,
+    "食品饮料": 2,
+    "有色金属": 1,
+    "农林牧渔": 1,
+    "通信": 1,
+    "国防军工": 1,
+    "传媒": 1,
+    "美容护理": 1
+  }
+}

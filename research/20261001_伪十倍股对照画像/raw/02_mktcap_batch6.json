@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "中国神华、华新建材、川恒股份2016年9月1日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "id": 14,
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|002895.SZ|川恒股份|0.0|\\n|601088.SH|中国神华|2876.5511亿|\\n|600801.SH|华新建材|96.0425亿|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20160901\",\"单位\":\" 元\"}}}}",
+            "type": "text"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "window": "20160901-20260831",
+  "adjust": "前复权",
+  "tool": "get_stock_performance",
+  "candidates": 137,
+  "verifiedCount": 137,
+  "tenXCount": 88,
+  "falsePositiveCount": 49,
+  "note": "逐只核验结果；verifiedChange 为该服务返回的前复权区间涨跌幅(%)；≥1000 判定十倍股。引擎标注列存在高分红股复权虚增，故以本表为准。",
+  "tenX": [
+    {
+      "code": "300604.SZ",
+      "name": "长川科技",
+      "changePct": 19492.5
+    },
+    {
+      "code": "300308.SZ",
+      "name": "中际旭创",
+      "changePct": 13698.9
+    },
+    {
+      "code": "300620.SZ",
+      "name": "光库科技",
+      "changePct": 6420
+    },
+    {
+      "code": "300502.SZ",
+      "name": "新易盛",
+      "changePct": 6314.8
+    },
+    {
+      "code": "300857.SZ",
+      "name": "协创数据",
+      "changePct": 5531.6
+    },
+    {
+      "code": "002837.SZ",
+      "name": "英维克",
+      "changePct": 5406.3
+    },
+    {
+      "code": "300666.SZ",
+      "name": "江丰电子",
+      "changePct": 5274
+    },
+    {
+      "code": "300548.SZ",
+      "name": "长芯博创",
+      "changePct": 4936.1
+    },
+    {
+      "code": "300757.SZ",
+      "name": "罗博特科",
+      "changePct": 4779.3
+    },
+    {
+      "code": "002916.SZ",
+      "name": "深南电路",
+      "changePct": 4437.5
+    },
+    {
+      "code": "001309.SZ",
+      "name": "德明利",
+      "changePct": 4117.1
+    },
+    {
+      "code": "300394.SZ",
+      "name": "天孚通信",
+      "changePct": 4022.1
+    },
+    {
+      "code": "603929.SH",
+      "name": "亚翔集成",
+      "changePct": 3941.4
+    },
+    {
+      "code": "300684.SZ",
+      "name": "中石科技",
+      "changePct": 3934.3
+    },
+    {
+      "code": "300661.SZ",
+      "name": "圣邦股份",
+      "changePct": 3660.9
+    },
+    {
+      "code": "603186.SH",
+      "name": "华正新材",
+      "changePct": 3507.4
+    },
+    {
+      "code": "603256.SH",
+      "name": "宏和科技",
+      "changePct": 3363.6
+    },
+    {
+      "code": "300672.SZ",
+      "name": "国科微",
+      "changePct": 3314.1
+    },
+    {
+      "code": "300567.SZ",
+      "name": "精测电子",
+      "changePct": 3296.3
+    },
+    {
+      "code": "300573.SZ",
+      "name": "兴齐眼药",
+      "changePct": 3154.1
+    },
+    {
+      "code": "688498.SH",
+      "name": "源杰科技",
+      "changePct": 3006.2
+    },
+    {
+      "code": "688037.SH",
+      "name": "芯源微",
+      "changePct": 2874.8
+    },
+    {
+      "code": "603127.SH",
+      "name": "昭衍新药",
+      "changePct": 2815.4
+    },
+    {
+      "code": "603986.SH",
+      "name": "兆易创新",
+      "changePct": 2808.4
+    },
+    {
+      "code": "002463.SZ",
+      "name": "沪电股份",
+      "changePct": 2770.8
+    },
+    {
+      "code": "300750.SZ",
+      "name": "宁德时代",
+      "changePct": 2729.7
+    },
+    {
+      "code": "603083.SH",
+      "name": "剑桥科技",
+      "changePct": 2705.9
+    },
+    {
+      "code": "002851.SZ",
+      "name": "麦格米特",
+      "changePct": 2407.4
+    },
+    {
+      "code": "603129.SH",
+      "name": "春风动力",
+      "changePct": 2339.2
+    },
+    {
+      "code": "600183.SH",
+      "name": "生益科技",
+      "changePct": 2266.1
+    },
+    {
+      "code": "003031.SZ",
+      "name": "中瓷电子",
+      "changePct": 2245.4
+    },
+    {
+      "code": "002371.SZ",
+      "name": "北方华创",
+      "changePct": 2195.8
+    },
+    {
+      "code": "300806.SZ",
+      "name": "斯迪克",
+      "changePct": 2158.1
+    },
+    {
+      "code": "688300.SH",
+      "name": "联瑞新材",
+      "changePct": 1998.1
+    },
+    {
+      "code": "603893.SH",
+      "name": "瑞芯微",
+      "changePct": 1986.6
+    },
+    {
+      "code": "688195.SH",
+      "name": "腾景科技",
+      "changePct": 1983.3
+    },
+    {
+      "code": "605117.SH",
+      "name": "德业股份",
+      "changePct": 1979.2
+    },
+    {
+      "code": "688072.SH",
+      "name": "拓荆科技",
+      "changePct": 1974.4
+    },
+    {
+      "code": "300570.SZ",
+      "name": "太辰光",
+      "changePct": 1895.1
+    },
+    {
+      "code": "300803.SZ",
+      "name": "指南针",
+      "changePct": 1886.4
+    },
+    {
+      "code": "300811.SZ",
+      "name": "铂科新材",
+      "changePct": 1865.2
+    },
+    {
+      "code": "300593.SZ",
+      "name": "新雷能",
+      "changePct": 1848.1
+    },
+    {
+      "code": "301377.SZ",
+      "name": "鼎泰高科",
+      "changePct": 1810.1
+    },
+    {
+      "code": "300751.SZ",
+      "name": "迈为股份",
+      "changePct": 1804.9
+    },
+    {
+      "code": "601100.SH",
+      "name": "恒立液压",
+      "changePct": 1775.2
+    },
+    {
+      "code": "603259.SH",
+      "name": "药明康德",
+      "changePct": 1752.6
+    },
+    {
+      "code": "300655.SZ",
+      "name": "晶瑞电材",
+      "changePct": 1724.9
+    },
+    {
+      "code": "300720.SZ",
+      "name": "海川智能",
+      "changePct": 1719.9
+    },
+    {
+      "code": "300476.SZ",
+      "name": "胜宏科技",
+      "changePct": 1712.3
+    },
+    {
+      "code": "603629.SH",
+      "name": "利通电子",
+      "changePct": 1711.4
+    },
+    {
+      "code": "603580.SH",
+      "name": "艾艾精工",
+      "changePct": 1703.1
+    },
+    {
+      "code": "002384.SZ",
+      "name": "东山精密",
+      "changePct": 1689.1
+    },
+    {
+      "code": "603690.SH",
+      "name": "至纯科技",
+      "changePct": 1685
+    },
+    {
+      "code": "603067.SH",
+      "name": "振华股份",
+      "changePct": 1683.5
+    },
+    {
+      "code": "601869.SH",
+      "name": "长飞光纤",
+      "changePct": 1608.5
+    },
+    {
+      "code": "300638.SZ",
+      "name": "广和通",
+      "changePct": 1593.1
+    },
+    {
+      "code": "688525.SH",
+      "name": "佰维存储",
+      "changePct": 1584.7
+    },
+    {
+      "code": "300576.SZ",
+      "name": "容大感光",
+      "changePct": 1584.3
+    },
+    {
+      "code": "300657.SZ",
+      "name": "弘信电子",
+      "changePct": 1558.5
+    },
+    {
+      "code": "601882.SH",
+      "name": "海天精工",
+      "changePct": 1542.9
+    },
+    {
+      "code": "603505.SH",
+      "name": "金石资源",
+      "changePct": 1537.8
+    },
+    {
+      "code": "603501.SH",
+      "name": "豪威集团",
+      "changePct": 1533.9
+    },
+    {
+      "code": "002821.SZ",
+      "name": "凯莱英",
+      "changePct": 1507.1
+    },
+    {
+      "code": "300475.SZ",
+      "name": "香农芯创",
+      "changePct": 1490
+    },
+    {
+      "code": "300677.SZ",
+      "name": "英科医疗",
+      "changePct": 1484.6
+    },
+    {
+      "code": "300602.SZ",
+      "name": "飞荣达",
+      "changePct": 1393.2
+    },
+    {
+      "code": "300835.SZ",
+      "name": "龙磁科技",
+      "changePct": 1361.6
+    },
+    {
+      "code": "603283.SH",
+      "name": "赛腾股份",
+      "changePct": 1336.6
+    },
+    {
+      "code": "300843.SZ",
+      "name": "胜蓝股份",
+      "changePct": 1313.1
+    },
+    {
+      "code": "300748.SZ",
+      "name": "金力永磁",
+      "changePct": 1277
+    },
+    {
+      "code": "603638.SH",
+      "name": "艾迪精密",
+      "changePct": 1269.4
+    },
+    {
+      "code": "300738.SZ",
+      "name": "奥飞数据",
+      "changePct": 1257.5
+    },
+    {
+      "code": "605358.SH",
+      "name": "立昂微",
+      "changePct": 1249.8
+    },
+    {
+      "code": "603991.SH",
+      "name": "领先股份",
+      "changePct": 1242
+    },
+    {
+      "code": "300627.SZ",
+      "name": "华测导航",
+      "changePct": 1236.3
+    },
+    {
+      "code": "605376.SH",
+      "name": "博迁新材",
+      "changePct": 1235
+    },
+    {
+      "code": "002028.SZ",
+      "name": "思源电气",
+      "changePct": 1228.7
+    },
+    {
+      "code": "300759.SZ",
+      "name": "康龙化成",
+      "changePct": 1226.7
+    },
+    {
+      "code": "603823.SH",
+      "name": "百合花",
+      "changePct": 1174.9
+    },
+    {
+      "code": "601899.SH",
+      "name": "紫金矿业",
+      "changePct": 1141.6
+    },
+    {
+      "code": "603881.SH",
+      "name": "数据港",
+      "changePct": 1123.7
+    },
+    {
+      "code": "603738.SH",
+      "name": "泰晶科技",
+      "changePct": 1114.2
+    },
+    {
+      "code": "002827.SZ",
+      "name": "高争民爆",
+      "changePct": 1112.1
+    },
+    {
+      "code": "002847.SZ",
+      "name": "盐津铺子",
+      "changePct": 1086.5
+    },
+    {
+      "code": "300782.SZ",
+      "name": "卓胜微",
+      "changePct": 1076.9
+    },
+    {
+      "code": "603040.SH",
+      "name": "新坐标",
+      "changePct": 1060.7
+    },
+    {
+      "code": "603203.SH",
+      "name": "快克智能",
+      "changePct": 1048.3
+    },
+    {
+      "code": "002980.SZ",
+      "name": "华盛昌",
+      "changePct": 1009.9
+    }
+  ],
+  "falsePositive": [
+    {
+      "code": "300390.SZ",
+      "name": "天华新能",
+      "changePct": 980.5
+    },
+    {
+      "code": "300763.SZ",
+      "name": "锦浪科技",
+      "changePct": 958.6
+    },
+    {
+      "code": "300718.SZ",
+      "name": "长盛轴承",
+      "changePct": 954.8
+    },
+    {
+      "code": "300725.SZ",
+      "name": "药石科技",
+      "changePct": 946.5
+    },
+    {
+      "code": "603290.SH",
+      "name": "斯达半导",
+      "changePct": 939
+    },
+    {
+      "code": "603179.SH",
+      "name": "新泉股份",
+      "changePct": 937.7
+    },
+    {
+      "code": "300274.SZ",
+      "name": "阳光电源",
+      "changePct": 930.4
+    },
+    {
+      "code": "300693.SZ",
+      "name": "盛弘股份",
+      "changePct": 920.5
+    },
+    {
+      "code": "002475.SZ",
+      "name": "立讯精密",
+      "changePct": 892.8
+    },
+    {
+      "code": "600760.SH",
+      "name": "中航沈飞",
+      "changePct": 891
+    },
+    {
+      "code": "300628.SZ",
+      "name": "亿联网络",
+      "changePct": 880.1
+    },
+    {
+      "code": "603444.SH",
+      "name": "吉比特",
+      "changePct": 879.5
+    },
+    {
+      "code": "603360.SH",
+      "name": "百傲化学",
+      "changePct": 877.4
+    },
+    {
+      "code": "300601.SZ",
+      "name": "康泰生物",
+      "changePct": 874
+    },
+    {
+      "code": "002648.SZ",
+      "name": "卫星化学",
+      "changePct": 806.1
+    },
+    {
+      "code": "600809.SH",
+      "name": "山西汾酒",
+      "changePct": 803.2
+    },
+    {
+      "code": "000338.SZ",
+      "name": "潍柴动力",
+      "changePct": 757.7
+    },
+    {
+      "code": "603605.SH",
+      "name": "珀莱雅",
+      "changePct": 743.6
+    },
+    {
+      "code": "600176.SH",
+      "name": "中国巨石",
+      "changePct": 722
+    },
+    {
+      "code": "002714.SZ",
+      "name": "牧原股份",
+      "changePct": 691.7
+    },
+    {
+      "code": "603345.SH",
+      "name": "安井食品",
+      "changePct": 684.6
+    },
+    {
+      "code": "002833.SZ",
+      "name": "弘亚数控",
+      "changePct": 654.9
+    },
+    {
+      "code": "000933.SZ",
+      "name": "神火股份",
+      "changePct": 630.2
+    },
+    {
+      "code": "600188.SH",
+      "name": "兖矿能源",
+      "changePct": 613.7
+    },
+    {
+      "code": "603688.SH",
+      "name": "石英股份",
+      "changePct": 586.1
+    },
+    {
+      "code": "601088.SH",
+      "name": "中国神华",
+      "changePct": 575.1
+    },
+    {
+      "code": "600801.SH",
+      "name": "华新建材",
+      "changePct": 533.4
+    },
+    {
+      "code": "002895.SZ",
+      "name": "川恒股份",
+      "changePct": 507.9
+    },
+    {
+      "code": "600309.SH",
+      "name": "万华化学",
+      "changePct": 479.3
+    },
+    {
+      "code": "600426.SH",
+      "name": "华鲁恒升",
+      "changePct": 444.9
+    },
+    {
+      "code": "002128.SZ",
+      "name": "电投能源",
+      "changePct": 425.6
+    },
+    {
+      "code": "600519.SH",
+      "name": "贵州茅台",
+      "changePct": 417.1
+    },
+    {
+      "code": "600295.SH",
+      "name": "鄂尔多斯",
+      "changePct": 372.1
+    },
+    {
+      "code": "600660.SH",
+      "name": "福耀玻璃",
+      "changePct": 368.5
+    },
+    {
+      "code": "600039.SH",
+      "name": "四川路桥",
+      "changePct": 355.4
+    },
+    {
+      "code": "600346.SH",
+      "name": "恒力石化",
+      "changePct": 355
+    },
+    {
+      "code": "000333.SZ",
+      "name": "美的集团",
+      "changePct": 354
+    },
+    {
+      "code": "000830.SZ",
+      "name": "鲁西化工",
+      "changePct": 298.5
+    },
+    {
+      "code": "000672.SZ",
+      "name": "上峰材料",
+      "changePct": 271.5
+    },
+    {
+      "code": "002884.SZ",
+      "name": "凌霄泵业",
+      "changePct": 245.6
+    },
+    {
+      "code": "601717.SH",
+      "name": "中创智领",
+      "changePct": 244
+    },
+    {
+      "code": "601699.SH",
+      "name": "潞安环能",
+      "changePct": 242.8
+    },
+    {
+      "code": "601666.SH",
+      "name": "平煤股份",
+      "changePct": 236.4
+    },
+    {
+      "code": "600132.SH",
+      "name": "重庆啤酒",
+      "changePct": 222.3
+    },
+    {
+      "code": "000568.SZ",
+      "name": "泸州老窖",
+      "changePct": 218.3
+    },
+    {
+      "code": "600971.SH",
+      "name": "恒源煤电",
+      "changePct": 216.1
+    },
+    {
+      "code": "002932.SZ",
+      "name": "*ST明德",
+      "changePct": 200.6
+    },
+    {
+      "code": "000858.SZ",
+      "name": "五粮液",
+      "changePct": 163.9
+    },
+    {
+      "code": "600438.SH",
+      "name": "通威股份",
+      "changePct": 125.1
+    }
+  ]
+}

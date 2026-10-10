@@ -1,0 +1,22 @@
+{
+  "tool": "get_stock_performance",
+  "params": {
+    "query": "宁德时代2018年6月11日的总市值"
+  },
+  "response": {
+    "ok": true,
+    "status_code": 200,
+    "data": {
+      "jsonrpc": "2.0",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"code\":1,\"msg\":\"success\",\"subCode\":null,\"subMsg\":null,\"data\":{\"answer\":\"|证券代码|证券简称|总市值（单位：元）|\\n|---|---|---|\\n|300750.SZ|宁德时代|786.4222亿|\",\"indicators_params\":{\"总市值\":{\"交易日期\":\"20180611\",\"单位\":\" 元\"}}}}"
+          }
+        ]
+      },
+      "id": 33
+    }
+  }
+}

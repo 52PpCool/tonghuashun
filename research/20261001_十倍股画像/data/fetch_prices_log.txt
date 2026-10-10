@@ -1,0 +1,178 @@
+[FAIL] 300604.SZ 长川科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300308.SZ 中际旭创 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300620.SZ 光库科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300502.SZ 新易盛 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300857.SZ 协创数据 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002837.SZ 英维克 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300666.SZ 江丰电子 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300548.SZ 长芯博创 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300757.SZ 罗博特科 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002916.SZ 深南电路 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 001309.SZ 德明利 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300394.SZ 天孚通信 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603929.SH 亚翔集成 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300684.SZ 中石科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300661.SZ 圣邦股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603186.SH 华正新材 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603256.SH 宏和科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300672.SZ 国科微 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300567.SZ 精测电子 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300573.SZ 兴齐眼药 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 688498.SH 源杰科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 688037.SH 芯源微 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603127.SH 昭衍新药 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603986.SH 兆易创新 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002463.SZ 沪电股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300750.SZ 宁德时代 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603083.SH 剑桥科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002851.SZ 麦格米特 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603129.SH 春风动力 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 600183.SH 生益科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 003031.SZ 中瓷电子 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002371.SZ 北方华创 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300806.SZ 斯迪克 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 688300.SH 联瑞新材 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603893.SH 瑞芯微 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 688195.SH 腾景科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 605117.SH 德业股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 688072.SH 拓荆科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300570.SZ 太辰光 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300803.SZ 指南针 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300811.SZ 铂科新材 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300593.SZ 新雷能 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 301377.SZ 鼎泰高科 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300751.SZ 迈为股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 601100.SH 恒立液压 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603259.SH 药明康德 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300655.SZ 晶瑞电材 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300720.SZ 海川智能 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300476.SZ 胜宏科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603629.SH 利通电子 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603580.SH 艾艾精工 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002384.SZ 东山精密 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603690.SH 至纯科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603067.SH 振华股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 601869.SH 长飞光纤 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300638.SZ 广和通 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 688525.SH 佰维存储 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300576.SZ 容大感光 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300657.SZ 弘信电子 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 601882.SH 海天精工 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603505.SH 金石资源 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603501.SH 豪威集团 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002821.SZ 凯莱英 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300475.SZ 香农芯创 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300677.SZ 英科医疗 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300602.SZ 飞荣达 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300835.SZ 龙磁科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603283.SH 赛腾股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300843.SZ 胜蓝股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300748.SZ 金力永磁 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603638.SH 艾迪精密 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300738.SZ 奥飞数据 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 605358.SH 立昂微 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603991.SH 领先股份 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300627.SZ 华测导航 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 605376.SH 博迁新材 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002028.SZ 思源电气 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300759.SZ 康龙化成 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603823.SH 百合花 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 601899.SH 紫金矿业 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603881.SH 数据港 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603738.SH 泰晶科技 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002827.SZ 高争民爆 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002847.SZ 盐津铺子 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 300782.SZ 卓胜微 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603040.SH 新坐标 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 603203.SH 快克智能 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[FAIL] 002980.SZ 华盛昌 ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+===== run 2026-10-01 01:33:58 source=sina fresh=False =====
+[ok]   300604.SZ 长川科技 rows=2268 first=2017-04-17 last=2026-08-31
+[ok]   300308.SZ 中际旭创 rows=2402 first=2016-09-30 last=2026-08-31
+[ok]   300620.SZ 光库科技 rows=2293 first=2017-03-10 last=2026-08-31
+[ok]   300502.SZ 新易盛 rows=2439 first=2016-08-15 last=2026-08-31
+[ok]   300857.SZ 协创数据 rows=1480 first=2020-07-27 last=2026-08-31
+[ok]   002837.SZ 英维克 rows=2272 first=2016-12-29 last=2026-08-31
+[ok]   300666.SZ 江丰电子 rows=2218 first=2017-06-15 last=2026-08-31
+[ok]   300548.SZ 长芯博创 rows=2400 first=2016-10-12 last=2026-08-31
+[ok]   300757.SZ 罗博特科 rows=1835 first=2019-01-08 last=2026-08-31
+[ok]   002916.SZ 深南电路 rows=2113 first=2017-12-13 last=2026-08-31
+[ok]   001309.SZ 德明利 rows=1012 first=2022-07-01 last=2026-08-31
+[ok]   300394.SZ 天孚通信 rows=2427 first=2016-08-15 last=2026-08-31
+[ok]   603929.SH 亚翔集成 rows=2347 first=2016-12-30 last=2026-08-31
+[ok]   300684.SZ 中石科技 rows=2105 first=2017-12-27 last=2026-08-31
+[ok]   300661.SZ 圣邦股份 rows=2236 first=2017-06-06 last=2026-08-31
+[ok]   603186.SH 华正新材 rows=2346 first=2017-01-03 last=2026-08-31
+[ok]   603256.SH 宏和科技 rows=1727 first=2019-07-19 last=2026-08-31
+[ok]   300672.SZ 国科微 rows=2197 first=2017-07-12 last=2026-08-31
+[ok]   300567.SZ 精测电子 rows=2370 first=2016-11-22 last=2026-08-31
+[ok]   300573.SZ 兴齐眼药 rows=2363 first=2016-12-08 last=2026-08-31
+[ok]   688498.SH 源杰科技 rows=895 first=2022-12-21 last=2026-08-31
+[ok]   688037.SH 芯源微 rows=1624 first=2019-12-16 last=2026-08-31
+[ok]   603127.SH 昭衍新药 rows=2188 first=2017-08-25 last=2026-08-31
+[ok]   603986.SH 兆易创新 rows=2230 first=2016-08-18 last=2026-08-31
+[ok]   002463.SZ 沪电股份 rows=2439 first=2016-08-15 last=2026-08-31
+[ok]   300750.SZ 宁德时代 rows=1997 first=2018-06-11 last=2026-08-31
+[ok]   603083.SH 剑桥科技 rows=2138 first=2017-11-10 last=2026-08-31
+[ok]   002851.SZ 麦格米特 rows=2227 first=2017-03-06 last=2026-08-31
+[ok]   603129.SH 春风动力 rows=2193 first=2017-08-18 last=2026-08-31
+[ok]   600183.SH 生益科技 rows=2439 first=2016-08-15 last=2026-08-31
+[ok]   003031.SZ 中瓷电子 rows=1362 first=2021-01-04 last=2026-08-31
+[ok]   002371.SZ 北方华创 rows=2439 first=2016-08-15 last=2026-08-31
+[ok]   300806.SZ 斯迪克 rows=1642 first=2019-11-25 last=2026-08-31
+[ok]   688300.SH 联瑞新材 rows=1648 first=2019-11-15 last=2026-08-31
+[ok]   603893.SH 瑞芯微 rows=1595 first=2020-02-07 last=2026-08-31
+[ok]   688195.SH 腾景科技 rows=1308 first=2021-03-26 last=2026-08-31
+[ok]   605117.SH 德业股份 rows=1302 first=2021-04-20 last=2026-08-31
+[ok]   688072.SH 拓荆科技 rows=1050 first=2022-04-20 last=2026-08-31
+[ok]   300570.SZ 太辰光 rows=2365 first=2016-12-06 last=2026-08-31
+[ok]   300803.SZ 指南针 rows=1647 first=2019-11-18 last=2026-08-31
+[ok]   300811.SZ 铂科新材 rows=1617 first=2019-12-30 last=2026-08-31
+[ok]   300593.SZ 新雷能 rows=2297 first=2017-01-13 last=2026-08-31
+[ok]   301377.SZ 鼎泰高科 rows=916 first=2022-11-22 last=2026-08-31
+[ok]   300751.SZ 迈为股份 rows=1895 first=2018-11-09 last=2026-08-31
+[ok]   601100.SH 恒立液压 rows=2439 first=2016-08-15 last=2026-08-31
+[ok]   603259.SH 药明康德 rows=2021 first=2018-05-08 last=2026-08-31
+[ok]   300655.SZ 晶瑞电材 rows=2247 first=2017-05-23 last=2026-08-31
+[ok]   300720.SZ 海川智能 rows=2132 first=2017-11-06 last=2026-08-31
+[ok]   300476.SZ 胜宏科技 rows=2434 first=2016-08-15 last=2026-08-31
+[ok]   603629.SH 利通电子 rows=1864 first=2018-12-24 last=2026-08-31
+[ok]   603580.SH 艾艾精工 rows=2246 first=2017-05-25 last=2026-08-31
+[ok]   002384.SZ 东山精密 rows=2369 first=2016-08-15 last=2026-08-31
+[ok]   603690.SH 至纯科技 rows=2245 first=2017-01-13 last=2026-08-31
+[ok]   603067.SH 振华股份 rows=2405 first=2016-09-13 last=2026-08-31
+[ok]   601869.SH 长飞光纤 rows=1969 first=2018-07-20 last=2026-08-31
+[ok]   300638.SZ 广和通 rows=2274 first=2017-04-13 last=2026-08-31
+[ok]   688525.SH 佰维存储 rows=888 first=2022-12-30 last=2026-08-31
+[ok]   300576.SZ 容大感光 rows=2345 first=2016-12-20 last=2026-08-31
+[ok]   300657.SZ 弘信电子 rows=2212 first=2017-05-23 last=2026-08-31
+[ok]   601882.SH 海天精工 rows=2383 first=2016-11-07 last=2026-08-31
+[ok]   603505.SH 金石资源 rows=2268 first=2017-05-03 last=2026-08-31
+[ok]   603501.SH 豪威集团 rows=2096 first=2017-05-04 last=2026-08-31
+[ok]   002821.SZ 凯莱英 rows=2377 first=2016-11-18 last=2026-08-31
+[ok]   300475.SZ 香农芯创 rows=2410 first=2016-08-15 last=2026-08-31
+[ok]   300677.SZ 英科医疗 rows=2213 first=2017-07-21 last=2026-08-31
+[ok]   300602.SZ 飞荣达 rows=2329 first=2017-01-26 last=2026-08-31
+[ok]   300835.SZ 龙磁科技 rows=1523 first=2020-05-25 last=2026-08-31
+[ok]   603283.SH 赛腾股份 rows=2101 first=2017-12-25 last=2026-08-31
+[ok]   300843.SZ 胜蓝股份 rows=1497 first=2020-07-02 last=2026-08-31
+[ok]   300748.SZ 金力永磁 rows=1924 first=2018-09-21 last=2026-08-31
+[ok]   603638.SH 艾迪精密 rows=2333 first=2017-01-20 last=2026-08-31
+[ok]   300738.SZ 奥飞数据 rows=2089 first=2018-01-19 last=2026-08-31
+[ok]   605358.SH 立昂微 rows=1446 first=2020-09-11 last=2026-08-31
+[ok]   603991.SH 领先股份 rows=2296 first=2017-03-08 last=2026-08-31
+[ok]   300627.SZ 华测导航 rows=2296 first=2017-03-21 last=2026-08-31
+[ok]   605376.SH 博迁新材 rows=1390 first=2020-12-08 last=2026-08-31
+[ok]   002028.SZ 思源电气 rows=2439 first=2016-08-15 last=2026-08-31
+[ok]   300759.SZ 康龙化成 rows=1841 first=2019-01-28 last=2026-08-31
+[ok]   603823.SH 百合花 rows=2355 first=2016-12-20 last=2026-08-31
+[ok]   601899.SH 紫金矿业 rows=2435 first=2016-08-15 last=2026-08-31
+[ok]   603881.SH 数据港 rows=2323 first=2017-02-08 last=2026-08-31
+[ok]   603738.SH 泰晶科技 rows=2409 first=2016-09-28 last=2026-08-31
+[ok]   002827.SZ 高争民爆 rows=2362 first=2016-12-09 last=2026-08-31
+[ok]   002847.SZ 盐津铺子 rows=2325 first=2017-02-08 last=2026-08-31
+[ok]   300782.SZ 卓胜微 rows=1750 first=2019-06-18 last=2026-08-31
+[ok]   603040.SH 新坐标 rows=2323 first=2017-02-09 last=2026-08-31
+[ok]   603203.SH 快克智能 rows=2385 first=2016-11-08 last=2026-08-31
+[ok]   002980.SZ 华盛昌 rows=1548 first=2020-04-15 last=2026-08-31

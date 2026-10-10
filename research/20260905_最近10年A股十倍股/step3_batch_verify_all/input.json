@@ -1,0 +1,10 @@
+{
+  "server_type": "stock",
+  "tool_name": "get_stock_performance",
+  "queryTemplate": "<每批5只股票代码，、连接> 2016-09-01至2026-08-31区间涨跌幅（前复权）",
+  "codesFile": "../数据/candidates.csv",
+  "chunkSize": 5,
+  "delayMs": 600,
+  "totalBatchCount": 28,
+  "note": "逐只核验 step1 初筛的 137 只候选；免费版并发上限 2/s，故批间间隔 600ms。"
+}
